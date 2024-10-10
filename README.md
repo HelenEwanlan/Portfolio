@@ -52,7 +52,7 @@ Datacamp Professional Certificate
 Analytical Skills, Data Visualization (2024)
 
 
-SQL Associate Certificate (2024)
+[SQL Associate Certificate] (https://www.datacamp.com/certificate/SQA0015263437089): (2024)
 
 SQL, Data Analysis
 
