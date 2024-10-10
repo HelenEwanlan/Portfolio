@@ -12,7 +12,7 @@
           - Visualizing the History of Nobel Prize Winners
       
     - SQL
-          - [Analyzing Industry Carbon Emissions](Analyzing Industry Carbon Emissions):
+          - Analyzing Industry Carbon Emissions:
       
           - Era of Video Games
       
@@ -57,7 +57,7 @@ Analytical Skills, Data Visualization
 SQL, Data Analysis
 
 
-[Datacamp Skill Verification](https://www.datacamp.com/skill-verification/AIF0022329836475: (2024)
+[Datacamp Skill Verification](https://www.datacamp.com/skill-verification/AIF0022329836475): (2024)
 
 AI Fundamentals
 
