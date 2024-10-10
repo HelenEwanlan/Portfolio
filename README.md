@@ -44,18 +44,29 @@ Data Analysis involved data cleaning, validation, exploratory data analysis, vis
 Skills: Data Cleaning, Data Visualization and Storytelling, Data Analysis Technology: Python, Pandas
 
 # Education
-University of Benin: Doctor Of Pharmacy (PharmD)- 2021
+University of Benin: Doctor of Pharmacy (PharmD)- 2021
 
 # Certifications
 Datacamp Professional Certificate
+
 Analytical Skills, Data Visualization (2024)
 
+
 SQL Associate Certificate (2024)
+
 SQL, Data Analysis
 
+
 Datacamp Skill Verification5 (2024)
+
 AI Fundamentals
 
+
 # Contacts
+helenewanlan44@gmail.com
+
+in/helen-ewanlan-pharmd-593850200
+
+https://www.datacamp.com/portfolio/helenewanlan
 
 
