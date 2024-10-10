@@ -12,7 +12,7 @@
           - Visualizing the History of Nobel Prize Winners
       
     - SQL
-          - Analyzing Industry Carbon Emissions
+          - [Analyzing Industry Carbon Emissions](Analyzing Industry Carbon Emissions):
       
           - Era of Video Games
       
