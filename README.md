@@ -47,9 +47,9 @@ Skills: Data Cleaning, Data Visualization and Storytelling, Data Analysis Techno
 University of Benin: Doctor of Pharmacy (PharmD)- 2021
 
 # Certifications
-Datacamp Professional Certificate
+[Datacamp Professional Certificate](https://www.datacamp.com/certificate/DA0025837235576): (2024)
 
-Analytical Skills, Data Visualization (2024)
+Analytical Skills, Data Visualization
 
 
 [SQL Associate Certificate](https://www.datacamp.com/certificate/SQA0015263437089): (2024)
@@ -57,7 +57,7 @@ Analytical Skills, Data Visualization (2024)
 SQL, Data Analysis
 
 
-Datacamp Skill Verification5 (2024)
+[Datacamp Skill Verification](https://www.datacamp.com/skill-verification/AIF0022329836475: (2024)
 
 AI Fundamentals
 
@@ -65,8 +65,10 @@ AI Fundamentals
 # Contacts
 helenewanlan44@gmail.com
 
-in/helen-ewanlan-pharmd-593850200
++2348160837648
 
-https://www.datacamp.com/portfolio/helenewanlan
+[LinkedIn](https://www.linkedin.com/in/helen-ewanlan-pharmd-593850200/):
+
+[Portfolio](https://www.datacamp.com/portfolio/helenewanlan):
 
 
