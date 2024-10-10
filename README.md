@@ -1,23 +1,23 @@
 # Helen Ewanlan - Data Analyst Portfolio
 # Table of Contents
--About
--Portfolio Projects
-    Python
-          Pens and Printers Sales Data Analysis
-          Analyzing Crime in Los Angeles
-          Investigating Netflix Movies
-          Visualizing the History of Nobel Prize Winners
-    SQL
-          Analyzing Industry Carbon Emissions
-          Era of Video Games
-          International Debt Analysis
-          Analyzing Motor Part Sales
+- About
+- Portfolio Projects
+    - Python
+          - Pens and Printers Sales Data Analysis
+          - Analyzing Crime in Los Angeles
+          - Investigating Netflix Movies
+          - Visualizing the History of Nobel Prize Winners
+    - SQL
+          - Analyzing Industry Carbon Emissions
+          - Era of Video Games
+          - International Debt Analysis
+          -Analyzing Motor Part Sales
           
     EXCEL & POWER BI
           
 
-Certifications
-Contacts
+- Certifications
+- Contacts
 
 
 # About
