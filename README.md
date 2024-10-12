@@ -36,6 +36,7 @@ This repository showcases my skills in SQL, Python, Excel and PowerBI for Data A
 
 # Portfolio Projects
 - Product Sales
+  
 Goals: To analyse the sales approach for marketing newly launched office stationeries in Pens and Printers company and decide on the best methods the sales team should use.
 
 Description: The dataset contains sales records with columns of weeks, sales_method, customer_id, nb_sold, revenue, years_as_customers, nb_site_visits and state.
