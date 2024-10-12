@@ -3,29 +3,18 @@
 - About
 - Portfolio Projects
     - Python
-          - [Product Sales](https://github.com/HelenEwanlan/Portfolio/tree/main/Product%20Sales):
-      
-          - [Exploring NYC Public School Test Result Scores](https://github.com/HelenEwanlan/Portfolio/tree/main/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores):
-      
-          - [Investigating Netflix Movies](https://github.com/HelenEwanlan/Portfolio/tree/main/Investigating%20Netflix%20Movies):
-
-          - [Hypothesis Testing with Men's and Women's Soccer Maatches](https://github.com/HelenEwanlan/Portfolio/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches):
-      
-          - [Visualizing the History of Nobel Prize Winners](https://github.com/HelenEwanlan/Portfolio/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners):
+          [Product Sales](https://github.com/HelenEwanlan/Portfolio/tree/main/Product%20Sales):
+          [Exploring NYC Public School Test Result Scores](https://github.com/HelenEwanlan/Portfolio/tree/main/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores):
+      [Investigating Netflix Movies](https://github.com/HelenEwanlan/Portfolio/tree/main/Investigating%20Netflix%20Movies)[Hypothesis Testing with Men's and Women's Soccer Maatches](https://github.com/HelenEwanlan/Portfolio/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches):
+[Visualizing the History of Nobel Prize Winners](https://github.com/HelenEwanlan/Portfolio/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners):
       
     - SQL
-          - [Analyzing Industry Carbon Emissions](https://github.com/HelenEwanlan/Portfolio/tree/main/Analyzing%20Industry%20Carbon%20Emissions):
-      
-           - [Hotel Operations](https://github.com/HelenEwanlan/Portfolio/tree/main/Hotel%20Operations):
-
-
-          - [Students' Mental Health](https://github.com/HelenEwanlan/Portfolio/tree/main/Students'%20Mental%20Health):
-
-           - [Era of Video Games](https://github.com/HelenEwanlan/Portfolio/tree/main/When%20Was%20the%20Golden%20Era%20of%20Video%20Games):
-      
-          - [Tech Solution Samples](https://github.com/HelenEwanlan/Portfolio/tree/main/Tech%20Solution%20Samples):
-      
-          - [Analyzing Motorcycle Part Sales](https://github.com/HelenEwanlan/Portfolio/tree/main/Analyzing%20Motorcycle%20Part%20Sales):
+          [Analyzing Industry Carbon Emissions](https://github.com/HelenEwanlan/Portfolio/tree/main/Analyzing%20Industry%20Carbon%20Emissions):
+      [Hotel Operations](https://github.com/HelenEwanlan/Portfolio/tree/main/Hotel%20Operations):
+[Students' Mental Health](https://github.com/HelenEwanlan/Portfolio/tree/main/Students'%20Mental%20Health):
+[Era of Video Games](https://github.com/HelenEwanlan/Portfolio/tree/main/When%20Was%20the%20Golden%20Era%20of%20Video%20Games):
+      [Tech Solution Samples](https://github.com/HelenEwanlan/Portfolio/tree/main/Tech%20Solution%20Samples):
+      [Analyzing Motorcycle Part Sales](https://github.com/HelenEwanlan/Portfolio/tree/main/Analyzing%20Motorcycle%20Part%20Sales):
       
           
     
