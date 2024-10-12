@@ -11,7 +11,7 @@
       [Investigating Netflix Movies](https://github.com/HelenEwanlan/Portfolio/tree/main/Investigating%20Netflix%20Movies)
       [Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/HelenEwanlan/Portfolio/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches):
 
-    [Visualizing the History of Nobel Prize Winners](https://github.com/HelenEwanlan/Portfolio/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners):
+        [Visualizing the History of Nobel Prize Winners](https://github.com/HelenEwanlan/Portfolio/tree/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners):
       
     - SQL
 
