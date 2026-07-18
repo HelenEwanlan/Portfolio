@@ -71,9 +71,9 @@ AI Fundamentals
 
 
 # Contacts
-helenewanlan44@gmail.com
+helenewanlan1@gmail.com
 
-+2348160837648
++447344390301
 
 [LinkedIn](https://www.linkedin.com/in/helen-ewanlan-pharmd-593850200/):
 
