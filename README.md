@@ -75,7 +75,7 @@ helenewanlan1@gmail.com
 
 +447344390301
 
-[LinkedIn](https://www.linkedin.com/in/helen-ewanlan-pharmd-593850200/):
+[LinkedIn](www.linkedin.com/in/helen-ewanlan):
 
 [Portfolio](https://www.datacamp.com/portfolio/helenewanlan):
 
